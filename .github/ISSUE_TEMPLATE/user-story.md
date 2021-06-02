@@ -2,7 +2,7 @@
 name: User Story
 about: User Story
 title: ''
-labels: ''
+labels: ТРПО
 assignees: Nockolay23
 
 ---
